@@ -1,4 +1,4 @@
-// Desafio 2: Repetitions
+// Desafio 3: Repetitions
 // Link: https://cses.fi/problemset/task/1069/
 
 // Status: PASSED
